@@ -65,81 +65,68 @@ Amplitude.init({
 	},
 	"songs": [
 		{
+			"name": "Main Theme",
+			"artist": "Simon Ton",
+			"album": "Rogue-like-like-like: Tower of Choice",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/DoC_TitleScreen_11162020.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
+		},
+		{
 			"name": "Leylia",
 			"artist": "Simon Ton",
 			"album": "Rogue-like-like-like: Tower of Choice",
-			"url": "https://www.mboxdrive.com/Leylia_v1.mp3",
-			"cover_art_url": "https://raw.githubusercontent.com/studiousGilbert/website2022/main/html5up-dimension/music-and-image-host/rlll618.jpg?token=GHSAT0AAAAAABRGL74NKGWVSSGBVRL5XFSEYQA5FDA"
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/Leylia_forlistening.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
 		},
 		{
-			"name": "The Gun",
-			"artist": "Lorn",
-			"album": "Ask The Dust",
-			"url": "../songs/08 The Gun.mp3",
-			"cover_art_url": "../album-art/ask-the-dust.jpg"
+			"name": "Cloaked Abomination",
+			"artist": "Simon Ton",
+			"album": "Rogue-like-like-like: Tower of Choice",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/harkins_phase1_forlistening.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
 		},
 		{
-			"name": "Anvil",
-			"artist": "Lorn",
-			"album": "Anvil",
-			"url": "../songs/LORN - ANVIL.mp3",
-			"cover_art_url": "../album-art/anvil.jpg"
+			"name": "Rage of the Ruined Scientist",
+			"artist": "Simon Ton",
+			"album": "Rogue-like-like-like: Tower of Choice",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/harkins_phase2_forlistening.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
 		},
 		{
-			"name": "I Came Running",
-			"artist": "Ancient Astronauts",
-			"album": "We Are to Answer",
-			"url": "../songs/ICameRunning-AncientAstronauts.mp3",
-			"cover_art_url": "../album-art/we-are-to-answer.jpg"
+			"name": "Astigmatism Apocalpyse",
+			"artist": "Simon Ton",
+			"album": "Rogue-like-like-like: Tower of Choice",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/LastlySlayer_Phase1_v6_ListeningDemo.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
 		},
 		{
-			"name": "First Snow",
-			"artist": "Emancipator",
-			"album": "Soon It Will Be Cold Enough",
-			"url": "../songs/FirstSnow-Emancipator.mp3",
-			"cover_art_url": "../album-art/soon-it-will-be-cold-enough.jpg"
+			"name": "ima firin mah lazor!",
+			"artist": "Simon Ton",
+			"album": "Rogue-like-like-like: Tower of Choice",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/LastlySlayer_Phase2_v6_ListeningDemo.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
 		},
 		{
-			"name": "Terrain",
-			"artist": "pg.lost",
-			"album": "Key",
-			"url": "../songs/Terrain-pglost.mp3",
-			"cover_art_url": "../album-art/key.jpg"
+			"name": "Lunar New Year Event",
+			"artist": "Simon Ton",
+			"album": "Rogue-like-like-like: Tower of Choice",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/RLLL_%EC%84%A4%EB%82%A0_v2_more_bass.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
 		},
 		{
-			"name": "Vorel",
-			"artist": "Russian Circles",
-			"album": "Guidance",
-			"url": "../songs/Vorel-RussianCircles.mp3",
-			"cover_art_url": "../album-art/guidance.jpg"
+			"name": "Halloween Event Battle",
+			"artist": "Simon Ton",
+			"album": "Rogue-like-like-like: Tower of Choice",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/RLLL_halloween_v1.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
 		},
 		{
-			"name": "Intro / Sweet Glory",
-			"artist": "Jimkata",
-			"album": "Die Digital",
-			"url": "../songs/IntroSweetGlory-Jimkata.mp3",
-			"cover_art_url": "../album-art/die-digital.jpg"
-		},
-		{
-			"name": "Offcut #6",
-			"artist": "Little People",
-			"album": "We Are But Hunks of Wood Remixes",
-			"url": "../songs/Offcut6-LittlePeople.mp3",
-			"cover_art_url": "../album-art/we-are-but-hunks-of-wood.jpg"
-		},
-		{
-			"name": "Dusk To Dawn",
-			"artist": "Emancipator",
-			"album": "Dusk To Dawn",
-			"url": "../songs/DuskToDawn-Emancipator.mp3",
-			"cover_art_url": "../album-art/from-dusk-to-dawn.jpg"
-		},
-		{
-			"name": "Anthem",
-			"artist": "Emancipator",
-			"album": "Soon It Will Be Cold Enough",
-			"url": "../songs/Anthem-Emancipator.mp3",
-			"cover_art_url": "../album-art/soon-it-will-be-cold-enough.jpg"
+			"name": "Winter Holiday Event",
+			"artist": "Simon Ton",
+			"album": "Rogue-like-like-like: Tower of Choice",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/rlll_xmas_v1.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
 		}
+		
 	]
 });
