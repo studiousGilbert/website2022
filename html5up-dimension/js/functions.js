@@ -69,7 +69,7 @@ Amplitude.init({
 			"artist": "Simon Ton",
 			"album": "Rogue-like-like-like: Tower of Choice",
 			"url": "https://www.mboxdrive.com/Leylia_v1.mp3",
-			"cover_art_url": "https://raw.githubusercontent.com/studiousGilbert/website2022/7f41d9768d620c3b08281990ac29fac89fee94d8/html5up-dimension/music-and-image-host/RLLL.jpg?token=GHSAT0AAAAAABRGL74NJU3R6YQFCJPAJQOWYQA42QQ"
+			"cover_art_url": "https://raw.githubusercontent.com/studiousGilbert/website2022/main/html5up-dimension/music-and-image-host/rlll618.jpg?token=GHSAT0AAAAAABRGL74NKGWVSSGBVRL5XFSEYQA5FDA"
 		},
 		{
 			"name": "The Gun",
